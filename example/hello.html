@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+
+{% block site_content %}
+  <p>Hello, {{ request.args.get('name', 'World') }}!</p>
+{% endblock %}

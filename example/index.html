@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block site_content %}
+<p>Welcome to my homepage!</p>
+<form action="/hello.html" method="GET">
+  <label>Name:</label>
+  <input type="text" name="name">
+  <button type="submit">Submit</button>
+</form>
+{% endblock %}
