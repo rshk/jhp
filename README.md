@@ -16,3 +16,7 @@ Still a better thing than PHP, in <50 SLOC!
 ```
 
 ..then visit http://127.0.0.1:4000
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rshk/jhp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
